@@ -1,7 +1,7 @@
 export default function Welcome() {
     return (
         <div>
-            <h1>welcome to home page</h1>
+            <h1>welcome to home page ramcharan jannu</h1>
         </div>
     )
 }
@@ -47,3 +47,5 @@ export function Banana({ onClick }: { onClick: () => void }) {
     )
 
 }
+
+
