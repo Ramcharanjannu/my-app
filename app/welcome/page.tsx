@@ -1,7 +1,7 @@
 export default function Welcome() {
     return (
         <div>
-            <h1>welcome to home page ramcharan jannu</h1>
+            <h1>hello welcome to railfeast</h1>
         </div>
     )
 }
