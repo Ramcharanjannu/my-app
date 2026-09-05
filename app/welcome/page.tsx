@@ -1,7 +1,7 @@
 export default function Welcome() {
     return (
         <div>
-            <h1>hello welcome to railfeast</h1>
+            <h1>hello welcome to railfeast, the food comes to ur seat</h1>
         </div>
     )
 }
